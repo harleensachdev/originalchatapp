@@ -1,8 +1,2 @@
-# reporting-app
-# reporting-app
-# reporting-app
-# reporting-app
-# reporting-app
-# reporting-app
-# reporting-app
-# reporting-app
+# Draft chat app to report bullying to a central admin
+
